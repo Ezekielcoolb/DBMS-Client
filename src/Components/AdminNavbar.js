@@ -1,5 +1,5 @@
 import { styled } from "styled-components";
-import { useAppContext } from "./Context";
+import { useAppContext } from "../Context";
 import { Icon } from "@iconify/react";
 
 export default function AdminNavbar() {
